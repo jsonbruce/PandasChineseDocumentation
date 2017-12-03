@@ -1,7 +1,7 @@
 # Summary
 
 * [关于本文档](README.md)
-* [新特性](chapter-1/README.md)
+* [版本变化](chapter-1/README.md)
 * [安装](chapter-2/README.md)
 * [数据结构](chapter-8/README.md)
     * [Series](chapter-8/series.md)
@@ -28,4 +28,3 @@
     * [使用 isin 索引](chapter-12/indexing_with_isin.md)
     * [where() 方法和掩码](chapter-12/whete_method_and_masking.md)
     * [query() 方法(实验性)](chapter-12/query_method.md)
-
