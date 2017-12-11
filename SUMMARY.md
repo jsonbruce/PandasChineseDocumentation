@@ -10,6 +10,7 @@
 * [重要的基本功能](chapter-9/README.md)
     * [Head 和 Tail](chapter-9/head_tail.md)
     * [属性和原始数据](chapter-9/attributes_and_the_raw_ndarrays.md)
+    * [加速操作](chapter-9/accelerated_operations.md)
 * [索引和选取数据](chapter-12/README.md)
     * [索引的不同方法](chapter-12/different_choices_for_indexing.md)
     * [基本方法](chapter-12/basics.md)
@@ -28,3 +29,4 @@
     * [使用 isin 索引](chapter-12/indexing_with_isin.md)
     * [where() 方法和掩码](chapter-12/whete_method_and_masking.md)
     * [query() 方法(实验性)](chapter-12/query_method.md)
+
